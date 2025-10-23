@@ -1,0 +1,3 @@
+data_file: ../DATA_FILES/A1-chemical-scaled.txtnum_training_patterns: 300 
+num_validation_patterns: 300 
+num_test_patterns: 300 
