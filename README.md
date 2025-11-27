@@ -49,11 +49,13 @@ During training:
 - Gradients are calculated layer by layer  
 - Weights and biases are adjusted to minimize the loss  
 
-### **🎯 Goals**
+---
+## 🎯 Goals
 - Demonstrate ANN fundamentals clearly
 - Serve as a learning tool for students and developers
 - Provide a base for experimenting with neural-network extensions (improved activations, optimizers, etc.)
 
-### 📜 License
+---
+## 📜 License
 MIT License — feel free to use, modify, and learn from this project.
 
