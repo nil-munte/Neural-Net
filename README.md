@@ -2,7 +2,7 @@
 A simple neural network implemented from scratch in Java.
 
 ## 📌 Overview
-This project is a lightweight, from-scratch implementation of a feed-forward artificial neural network (ANN) written entirely in **Java**, with **no external machine-learning libraries**.
+This project is a lightweight, from-scratch implementation of a feed-forward artificial neural network (ANN) written entirely in **Java**, with **no external machine-learning libraries**, following the BP.pdf document.
 
 It is designed for learning, experimentation, and understanding the internal mechanics of neural networks, including:
 
